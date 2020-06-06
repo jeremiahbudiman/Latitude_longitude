@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
                         }
                         else{
                             TextView textView = findViewById(R.id.location);
-                            textView.setText("No");
+                            textView.setText("No!");
                         }
                     }
                 });
